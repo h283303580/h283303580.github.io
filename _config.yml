@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Chengqian Huang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. in Biosystems Engineering"
+  location         : "Stillwater, OK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/chengqian.huang.1/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=A6GBx7kAAAAJ"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Chengqian-Huang-3"
+  email            : "chengqian.huang@okstate.edu"
+  researchgate     : "https://www.researchgate.net/profile/Chengqian-Huang-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/chengqian-huang-7b233b180"
   orcid            : "https://orcid.org/0000-0001-6681-7548"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
