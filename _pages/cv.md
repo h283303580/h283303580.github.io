@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemical Engineering, Southeast University University, 2017
+* Ph.D in Biosystems Engineering, Oklahoma State University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2017 - present: Research Assistant
+  * Oklahoma State University
+  * Duties included: 
+        * Routine safety checks and equipment maintenance for the lab
+        * Training for new lab workers and establishing standard operating procedure (SOP) for lab equipment
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Chemical vapor deposition (CVD)
+* Fundamental cell/bacteria culture
+* Cell Assay
+  * Enzyme-linked immunosorbent assay
+  * Immunofluorescence assay
+  * Cell proliferation assay
+  * Cell differentiation assay 
+* Spectrum
+  * Fourier-transform infrared spectroscopy (FTIR)
+  * Ultraviolet-visible spectrophotometers (UV-vis)
+  * UV-plate reader
+* Chromatogram
+  * High-performance liquid chromatography (HPLC)
+  * Gas chromatography–mass spectrometry (GC-MS)
+* Microscopy
+  * Scanning electron microscope (SEM)
+  * Atomic force microscope (AFM)
+  * Transmission electron microscope (TEM)
+  * Optical/fluorescence microscope
+* 3D printing
 
 Publications
 ======
@@ -47,13 +56,8 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+   
+Honors and Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Sitlington Enriched Graduate Scholarship, 2017-2020
+* China National Scholarship, 2015
