@@ -24,6 +24,7 @@ Chengqian Huang's research focuses on the design, characterization, and applicat
 
 Projects
 ======
+
 Oily wastewater treatment
 ------
 We are using the Chemical Vapor Deposition (CVD) method to modify the metal meshes with special wettability and using the modified mesh for the treatment of oily wastewater coming from the industry or oil spill accidents. When the wastewater passed the modified mesh, the clean water will be separated and the petroleum oil will be recovered fastly and efficiently.
