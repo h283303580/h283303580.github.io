@@ -2,7 +2,7 @@
 title: "ZnO microfiltration membranes for desalination by a vacuum flow-through evaporation method"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-6
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 
 date: 2019-11-23
 venue: 'Membranes'
 paperurl: 'https://www.mdpi.com/2077-0375/9/12/156'
