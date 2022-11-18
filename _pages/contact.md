@@ -9,9 +9,9 @@ redirect_from:
 
 ## Availability
 
-* ·Peer review for journals and conferences
-* ·Co-guest editor for a special issue of journals
-* ·Collaborate to write review papers
+* Peer review for journals and conferences
+* Co-guest editor for a special issue of journals
+* Collaborate to write review papers
 
 
 
