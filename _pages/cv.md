@@ -61,3 +61,5 @@ Honors and Awards
 ======
 * Sitlington Enriched Graduate Scholarship, 2017-2020
 * China National Scholarship, 2015
+
+[Download my CV here](http://h283303580.github.io/files/Chengqian_Huang_CV.pdf)
