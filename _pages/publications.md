@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Huang, C., Mao, Yu. Ultrathin Crosslinking Vapor Deposition Encapsulation of Dexamethasone for Controlled Release from Three-dimensional Devices (In preparation).
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
