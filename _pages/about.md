@@ -20,7 +20,7 @@ Chengqian is available for:
 Research Interests
 ======
 
-Chengqian Huang's research focuses on the design, characterization, and application of polymer nanofilms based on Chemical Vapor deposition (CVD). He is devoted to manipulating the microstructures and special compositions of CVD films to achieve functional modifications of various membranes and medical devices for different environmental and biological applications such as wastewater treatment/purification, pharmaceutics drug delivery, and bioadhesion control.
+Chengqian Huang's research focuses on the design, characterization, and application of **polymer nanofilms** based on Chemical Vapor deposition (CVD). He is devoted to manipulating the microstructures and special compositions of CVD films to achieve functional modifications of various membranes and medical devices for different environmental and biological applications such as wastewater treatment/purification, pharmaceutics drug delivery, and bioadhesion control.
 
 Projects
 ======
