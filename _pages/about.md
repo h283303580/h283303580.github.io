@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+---
 
 **Chegqian Huang** received his Bachelor in **Chemical Engineering** from Southeast University at 2017 and he is now a Ph.D. candidate in **Biosystems Engineering** at Oklahoma State University. 
 
