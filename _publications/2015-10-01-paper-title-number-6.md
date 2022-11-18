@@ -6,8 +6,6 @@ excerpt:
 date: 2019-11-23
 venue: 'Membranes'
 paperurl: 'https://www.mdpi.com/2077-0375/9/12/156'
-citation:
----
 
 [Download paper here](https://www.mdpi.com/2077-0375/9/12/156)
 
