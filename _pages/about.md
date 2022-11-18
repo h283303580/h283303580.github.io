@@ -26,7 +26,9 @@ Projects
 ======
 Oily wastewater treatment
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+We are using the Chemical Vapor Deposition (CVD) method to modify the metal meshes with special wettability and using the modified mesh for the treatment of oily wastewater coming from the industry or oil spill accidents. When the wastewater passed the modified mesh, the clean water will be separated and the petroleum oil will be recovered fastly and efficiently.
+
+Compared with the traditional liquid-based modification, the CVD method preserved the mesh openings after modification, which allows the water freely penetrated to ensure fast wastewater treatment. The specially designed modification layer provides strong surface resistance to oil contaminations and improves the oil recovery efficiency for the mesh.  
 
 Pharmaceutic drug delivery
 ------
