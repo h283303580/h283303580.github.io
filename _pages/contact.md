@@ -25,7 +25,7 @@ redirect_from:
 
 ### Email
 
-[chengqian.huang@okstate.edu](chengqian.huang@okstate.edu).
+chengqian.huang@okstate.edu
 
 ### Tel
 
