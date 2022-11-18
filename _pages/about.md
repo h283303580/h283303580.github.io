@@ -18,27 +18,26 @@ Chengqian is available for:
 * (co-)guest editor for a special issue of journals
 
 Research Interests
-======
+------
 
 Chengqian Huang's research focuses on the design, characterization, and application of **polymer nanofilms** based on Chemical Vapor deposition (CVD). He is devoted to manipulating the microstructures and special compositions of CVD films to achieve functional modifications of various membranes and medical devices for different environmental and biological applications such as wastewater treatment/purification, pharmaceutics drug delivery, and bioadhesion control.
 
 Projects
-======
-
-Oily wastewater treatment
 ------
+**Oily wastewater treatment**
+
 We are using the Chemical Vapor Deposition (CVD) method to modify the metal meshes with special wettability and using the modified mesh for the treatment of oily wastewater coming from the industry or oil spill accidents. When the wastewater passed the modified mesh, the clean water will be separated and the petroleum oil will be recovered fastly and efficiently.
 
 Compared with the traditional liquid-based modification, the CVD method preserved the mesh openings after modification, which allows the water freely penetrated to ensure fast wastewater treatment. The specially designed modification layer provides strong surface resistance to oil contaminations and improves the oil recovery efficiency for the mesh.  
 
-Pharmaceutic drug delivery
-------
+**Pharmaceutic drug delivery**
+
 x
 
-Bio-adhesion control
-------
+**Bio-adhesion control**
+
 x
 
 Recent News
-======
+------
 **Aug 2022** Chengqian passed his PhD Candidacy Exam
