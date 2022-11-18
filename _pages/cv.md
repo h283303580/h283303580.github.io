@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Chemical Engineering, Southeast University University, 2017
-* Ph.D in Biosystems Engineering, Oklahoma State University, 2023 (expected)
+* Ph.D. in Biosystems Engineering, Oklahoma State University, 2023 (expected)
 
 Work experience
 ======
