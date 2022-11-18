@@ -9,4 +9,4 @@ paperurl:
 citation: 
 ---
 
-Dangwal, S., Liu, R., Bastatas, L. D., Echeverria, E., [Huang, C.], Mao, Y., ... & Kim, S. J. (2019). ZnO microfiltration membranes for desalination by a vacuum flow-through evaporation method. Membranes, 9(12), 156.(https://www.mdpi.com/2077-0375/9/12/156)
+Dangwal, S., Liu, R., Bastatas, L. D., Echeverria, E., [Huang, C.](https://www.mdpi.com/2077-0375/9/12/156), Mao, Y., ... & Kim, S. J. (2019). ZnO microfiltration membranes for desalination by a vacuum flow-through evaporation method. Membranes, 9(12), 156.
