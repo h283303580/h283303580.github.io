@@ -1,15 +1,12 @@
 ---
-title: "Journal Articles"
+title: "Selective Etching of N-Doped Graphene Meshes as Metal-Free Catalyst with Tunable Kinetics, High Activity and the Origin of New Catalytic Behaviors"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-4
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: 
+excerpt: 
+date: 2018-02-06
+venue: 'Particle & Particle Systems Characterization'
+paperurl: 
+citation:
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://onlinelibrary.wiley.com/doi/full/10.1002/ppsc.201700395)
