@@ -1,7 +1,7 @@
 ---
 title: "Visible-light promoted catalytic activity of dumbbell-like Au nanorods supported on graphene/TiO2 sheets towards hydrogenation reaction"
 collection: publications
-permalink: /publications/2015-10-01-paper-title-number-5
+permalink: 
 excerpt: 
 date: 2018-04-13
 venue: 'Nanotechnology'
@@ -9,4 +9,4 @@ paperurl:
 citation: 
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://iopscience.iop.org/article/10.1088/1361-6528/aab9c2/meta)
