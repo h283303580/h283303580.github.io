@@ -39,4 +39,12 @@ x
 
 Recent News
 ------
-**Aug 2022** Chengqian passed his PhD Candidacy Exam
+**Aug 2022** Chengqian passed his PhD Candidacy Exam.
+
+**Nov 2021** Chengqian was having conference talks in the **Development and Delivery of Bioactive Factors** and **Membrane Separation** sessions at the **2021 AIChE Annual Meeting**.
+
+**Nov 2021** Chengqian was having conference talks in the **Development and Delivery of Bioactive Factors** and **Membrane Separation** sessions at the **2021 AIChE Annual Meeting**.
+
+**Nov 2020** Chengqian was having a poster presentation at the **2nd Annual Immune Modulation and Engineering Symposium**.
+
+**Aug 2017** Chengqian received the 2017-2020 **Sitlington Enriched Graduate Scholarship**.
