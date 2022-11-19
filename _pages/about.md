@@ -37,7 +37,10 @@ The vapor-based encapsulation bypassed the use of any solvent, which eliminated 
 
 **Bio-adhesion control**
 
-x
+We are using Chemical Vapor Deposition (CVD) as the surface modification for the implanted medical devices to reduce the adhesion of biomolecules such as bacteria and blood cells, thus avoiding device-related infection and thrombosis in use.
+
+The polymer coatings with hierarchical roughness were first fabricated and modified on the substrates of SW, SS, plastic, and glass by combining CVD steps with varying saturation ratios. The coating provides a superhydrophobic surface that significantly reduced blood and bacteria adhesion. On the surface of the hierarchically roughened coating surface, the bacteria adhesion was reduced by 79.75 %  and the blood coagulation decreased by 98.82 % compared with the smooth coating.
+
 
 Recent News
 ------
