@@ -31,7 +31,9 @@ Compared with the traditional liquid-based modification, the CVD method preserve
 
 **Pharmaceutic drug delivery**
 
-x
+We are using Chemical Vapor Deposition (CVD) to encapsulate pharmaceutic drugs for controlled release from three-dimensional medical devices such as brain probes and cardiac stents to alleviate the foreign-body reactions resulting from the device implantation and prevent adverse effects caused by the drug burst release.
+
+The vapor-based encapsulation bypassed the use of any solvent, which eliminated the burst drug release due to the solvent effect. The crosslinking structure in the encapsulation enabled the zero-order release of dexamethasone and the release rate was regulated by varying the dose density and encapsulation thickness to fulfill any dose needs in different therapies.
 
 **Bio-adhesion control**
 
@@ -41,9 +43,7 @@ Recent News
 ------
 **Aug 2022** Chengqian passed his PhD Candidacy Exam.
 
-**Nov 2021** Chengqian was having conference talks in the **Development and Delivery of Bioactive Factors** and **Membrane Separation** sessions at the **2021 AIChE Annual Meeting**.
-
-**Nov 2021** Chengqian was having conference talks in the **Development and Delivery of Bioactive Factors** and **Membrane Separation** sessions at the **2021 AIChE Annual Meeting**.
+**Nov 2021** Chengqian was having conference talks in the <ins>Development and Delivery of Bioactive Factors</ins> and <ins>Membrane Separation</ins> sessions at the **2021 AIChE Annual Meeting**.
 
 **Nov 2020** Chengqian was having a poster presentation at the **2nd Annual Immune Modulation and Engineering Symposium**.
 
