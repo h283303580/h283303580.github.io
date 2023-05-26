@@ -44,7 +44,7 @@ The polymer coatings with hierarchical roughness were first fabricated and modif
 
 Recent News
 ------
-**Jun 2023** Chengqian received the **Graduate College Robberson Research and Creative Activity Scholarship**
+**Jun 2023** Chengqian received the **Graduate College Robberson Research and Creative Activity Scholarship**.
 
 **Aug 2022** Chengqian passed his PhD Candidacy Exam.
 
